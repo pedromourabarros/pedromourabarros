@@ -1,177 +1,163 @@
-<div align="center">
+::: {align="center"}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,12,20&amp;height=260&amp;section=header&amp;text=Pedro%20Moura%20Barros&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Analista%20de%20Dados%20%26%20Business%20Intelligence&amp;descAlignY=50&amp;descSize=20&amp;descColor=cbd5e1" width="100%"/>
+👋 Olá, eu sou Pedro Moura Barros
 
-<img src="https://pedro-moura.vercel.app/pedro.jpeg" width="120" height="120" style="border-radius:50%;object-fit:cover;" alt="Pedro Moura Barros"/>
+Software Engineering Student • Data & BI • Full Stack Development
 
-<br><br>
+<p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Transformo+dados+brutos+em+decis%C3%B5es+estrat%C3%A9gicas;SQL+%7C+Power+BI+%7C+Databricks+%7C+DAX+%7C+ETL;Full+Stack%3A+React+%7C+Node.js+%7C+TypeScript;Criador+do+FYNCOP+-+SaaS+Financeiro+com+IA" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/pedromourabarros">{=html}<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}</a>{=html}<a href="https://portfolio-pedromourabarros.netlify.app">{=html}<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">{=html}</a>{=html} <a href="https://github.com/pedromourabarros">{=html}<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">{=html}</a>{=html}
 
-<br>
+</p>
 
-<a href="https://pedro-moura.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0f1420?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://linkedin.com/in/pedromourabarros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:pedromb303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://wa.me/5511999395606"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Pedro%20Moura%20Barros&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20BI%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" width="100%" alt="Header">{=html}:::
 
-<br><br>
+🚀 Sobre mim
 
-<img src="https://komarev.com/ghpvc/?username=pedromourabarros&amp;label=Visualizações+do+perfil&amp;color=38BDF8&amp;style=for-the-badge" />
+🎓 Estudante de Engenharia de Software na FIAP, apaixonado portransformar problemas reais em produtos e soluções digitais.
 
-<br><br>
+Minha experiência combina Análise de Dados, Business Intelligence eDesenvolvimento de Software. Atuei no Bradesco, trabalhando comdados, indicadores, relatórios e dashboards em Power BI, além dedesenvolver soluções para apoiar decisões estratégicas e operacionais.
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+Também atuo no desenvolvimento web e na construção de aplicaçõesmodernas, com experiência em TypeScript, JavaScript, React, Next.js,Node.js, Supabase e PostgreSQL.
 
-</div>
+💡 Gosto de trabalhar na interseção entre dados + tecnologia +produto, criando soluções que não apenas funcionam, mas geram valor.
 
-<br>
-
-## 🧭 Sobre mim
+🧠 O que eu faço
 
 <table>
+
 <tr>
-<td width="58%" valign="top">
 
-> Analista de Dados com experiência em **SQL, Power BI, DAX, Databricks e ETL**, construindo dashboards executivos, análises exploratórias e cruzamento de bases para dar suporte à decisão estratégica em ambiente corporativo.
->
-> Base sólida em engenharia de dados aplicada a negócio, com conhecimento complementar em **desenvolvimento full stack** (React, Node.js, TypeScript, PostgreSQL), voltado à automação de processos e integração de sistemas.
+<td width="50%" valign="top">
 
-&nbsp;
+📊 Data & Business Intelligence
 
-🎓&nbsp;&nbsp;Estudante de **Engenharia de Software** na FIAP
-📍&nbsp;&nbsp;Osasco, SP — Brasil
-💼&nbsp;&nbsp;Experiência em BI corporativo no **Bradesco / Bradesco Prime**
-🚀&nbsp;&nbsp;Criador do **FYNCOP**, SaaS financeiro com IA
-🌱&nbsp;&nbsp;Aprendendo continuamente novas ferramentas de dados, cloud e IA
-💬&nbsp;&nbsp;Disponível para novas oportunidades como **Analista de Dados / BI**
+Dashboards e indicadores com Power BI
+
+Modelagem e transformação de dados
+
+SQL e consultas analíticas
+
+DAX e criação de KPIs
+
+ETL / ELT
+
+Análise exploratória com Python
+
+Databricks e processamento de dados
+
+Data Visualization
 
 </td>
-<td width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
+<td width="50%" valign="top">
+
+💻 Software & Web
+
+Aplicações com Next.js / React
+
+APIs e back-end com Node.js
+
+Desenvolvimento com TypeScript
+
+PostgreSQL / Supabase
+
+Integrações com APIs externas
+
+Autenticação e Row Level Security
+
+Deploy com Vercel / Netlify
+
+Arquitetura e desenvolvimento de SaaS
 
 </td>
+
 </tr>
+
 </table>
 
-<br>
+🛠️ Tecnologias
 
-## 🛠️ Stack técnica
+::: {align="center"}
 
-<div align="center">
+Linguagens
 
-<sub><b>DATA & ANALYTICS</b></sub>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sql" alt="Languages">{=html}
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-6C5CE7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=tableau&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" />
+Desenvolvimento
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,postgres,git,github" alt="Development">{=html}
 
-<sub><b>LINGUAGENS & DESENVOLVIMENTO</b></sub>
+Dados & Ferramentas
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,azure,docker" alt="Tools">{=html}
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css" height="55"/>
+<br>{=html}<br>{=html}
 
-<br><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI">{=html}<img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX">{=html}<img src="https://img.shields.io/badge/Databricks-EF3A24?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">{=html}<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">{=html}<img src="https://img.shields.io/badge/Oracle%20Data%20Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Data Modeler">{=html}:::
 
-<sub><b>BANCOS DE DADOS & FERRAMENTAS</b></sub>
+💼 Experiência
 
-<br><br>
+🏦 Bradesco --- Data & Business Intelligence
 
-<img src="https://skillicons.dev/icons?i=postgres,oracle,mysql,git,github,vscode,aws" height="55"/>
+Atuação em Análise de Dados e Business Intelligence, apoiando áreasde negócio através de dados, indicadores e visualizações.
 
-</div>
+Principais atividades:
 
-<br>
+Desenvolvimento e manutenção de dashboards em Power BI
 
-## 📈 Trajetória
+Análise de dados para suporte à tomada de decisão
 
-```mermaid
-timeline
-    title Trajetória Profissional
-    Jul 2024 : Aprendiz em Análise de Dados — Cielo : Monitoramento de indicadores e automação em Python
-    Out 2024 : Estagiário em Análise de Dados — Bradesco : KPIs em Power BI e consolidação de bases
-    Abr 2026 : Business Intelligence I — Bradesco Prime : SQL em Databricks e dashboards estratégicos
-    Ago 2026 : Novo ciclo : Aberto a novas oportunidades como Analista de Dados / BI
-```
+Construção e acompanhamento de KPIs
 
-<br>
+Consultas e manipulação de dados com SQL
 
-## 🚀 Projeto em destaque
+Tratamento e transformação de dados
 
-<div align="center">
+Apoio à análise de eficiência e performance operacional
 
-<table>
-<tr>
-<td align="center" width="100%">
+Criação de soluções para transformar dados em informações acionáveis
 
-<a href="https://fyncop.com"><img src="https://img.shields.io/badge/FYNCOP-Plataforma%20Financeira%20com%20IA-0f1420?style=for-the-badge" /></a>
+🔥 Projetos em destaque
 
-<br><br>
+💰 Fyncop --- Financial Management SaaS
 
-<b>FYNCOP</b> — plataforma SaaS de controle financeiro com inteligência artificial, que gera insights automáticos sobre gastos e projeções. Construída do zero com React, Node.js, Express e Supabase.
+Uma plataforma SaaS de gestão financeira desenvolvida para centralizarinformações financeiras e transformar dados em decisões.
 
-<br><br>
+Stack: Next.js TypeScript Supabase PostgreSQL ReactStripe Mercado Pago GROQ
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" />
+Destaques: - Dashboard financeiro com KPIs - Arquiteturamulti-tenant - Row Level Security (RLS) - Sistema de assinatura epagamentos - Comandos de voz utilizando Web Speech API - Processamentode linguagem com LLM - Integrações com APIs externas - Agendafinanceira - Arquitetura preparada para escala
 
-<br><br>
+📈 GitHub
 
-🔗 Case studies completos no meu portfólio: <a href="https://pedro-moura.vercel.app"><b>pedro-moura.vercel.app</b></a>
+::: {align="center"}<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromourabarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" alt="GitHub Stats">{=html}
 
-</td>
-</tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourabarros&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">{=html}
 
-</div>
+<br>{=html}
 
-<br>
+<img src="https://streak-stats.demolab.com?user=pedromourabarros&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">{=html}:::
 
-## 📊 GitHub Stats
+🎯 Atualmente
 
-<div align="center">
+🎓 Engenharia de Software — FIAP
+📊 Data Analytics & Business Intelligence
+💻 Full Stack Development
+🚀 Construção de produtos e SaaS
+🧠 Data + Technology + Product
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedromourabarros&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;bg_color=0d1117" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourabarros&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;title_color=38BDF8&amp;bg_color=0d1117" height="175"/>
+Estou sempre buscando evoluir tecnicamente, construir projetos queresolvam problemas reais e aprender novas formas de transformar dadose software em soluções de impacto.
 
-<br>
+📫 Vamos conversar?
 
-<img src="https://streak-stats.demolab.com?user=pedromourabarros&amp;theme=tokyonight&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8&amp;background=0d1117" height="175"/>
+::: {align="center"}<a href="mailto:pedromourabarros@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">{=html}</a>{=html}<a href="https://www.linkedin.com/in/pedromourabarros">{=html}<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}</a>{=html}<a href="https://portfolio-pedromourabarros.netlify.app">{=html}<img src="https://img.shields.io/badge/Meu%20Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">{=html}</a>{=html}
 
-<br>
+<br>{=html}<br>{=html}
 
-<img src="https://github-readme-trophies.vercel.app/?username=pedromourabarros&amp;theme=tokyonight&amp;no-frame=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" />
+<img src="https://komarev.com/ghpvc/?username=pedromourabarros&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views">{=html}:::
 
-<br>
+::: {align="center"}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedromourabarros&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117" width="95%"/>
+⭐ Se algum projeto meu te ajudar, considere deixar uma estrela!
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-### 📫 Vamos conversar sobre dados, tecnologia e oportunidades?
-
-<a href="mailto:pedromb303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://linkedin.com/in/pedromourabarros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://pedro-moura.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0f1420?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,12,2&amp;height=120&amp;section=footer" width="100%"/>
-
-</div>
+"Transformando dados em decisões. Transformando código em soluções.":::
