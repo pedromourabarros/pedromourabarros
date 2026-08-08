@@ -2,13 +2,13 @@
 
 # 👋 Olá, eu sou Pedro Moura Barros
 
-### `Software Engineering Student` • `Data & BI` • `Full Stack Development`
+### `Data & BI` • `Software Engineering` • `Full Stack Development`
 
 <p>
   <a href="https://www.linkedin.com/in/pedromourabarros">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://portfolio-pedromourabarros.netlify.app">
+  <a href="https://pedro-moura.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/pedromourabarros">
@@ -20,53 +20,114 @@
 
 </div>
 
+---
+
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Engenharia de Software na FIAP**, apaixonado por transformar problemas reais em produtos e soluções digitais.
+🎓 Estudante de **Engenharia de Software na FIAP**, com experiência profissional em **Data Analytics e Business Intelligence**, atuando em ambientes corporativos e projetos de tecnologia.
 
-Minha experiência combina **Análise de Dados, Business Intelligence e Desenvolvimento de Software**. Atuei no **Bradesco**, trabalhando com dados, indicadores, relatórios e dashboards em Power BI, além de desenvolver soluções para apoiar decisões estratégicas e operacionais.
+Minha experiência profissional inclui atuação no **Bradesco Prime**, trabalhando com **SQL, Databricks, Power BI, DAX, SAS e SQL Server** para extração, tratamento e análise de dados, criação de dashboards executivos e geração de insights para apoiar decisões de negócio. :contentReference[oaicite:3]{index=3}
 
-Também atuo no desenvolvimento web e na construção de aplicações modernas, com experiência em **TypeScript, JavaScript, React, Next.js, Node.js, Supabase e PostgreSQL**.
+Também possuo experiência em **desenvolvimento Full Stack**, construindo aplicações web, APIs e soluções SaaS utilizando tecnologias como **React, Node.js, TypeScript, PostgreSQL e Supabase**.
 
-> 💡 Gosto de trabalhar na interseção entre **dados + tecnologia + produto**, criando soluções que não apenas funcionam, mas geram valor.
+> 💡 Meu foco está na interseção entre **dados, software e negócios**, transformando informações e problemas reais em soluções eficientes e escaláveis.
 
 ---
 
-## 🧠 O que eu faço
+## 🧠 Áreas de atuação
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 Data & Business Intelligence
 
-- Dashboards e indicadores com **Power BI**
-- Modelagem e transformação de dados
-- **SQL** e consultas analíticas
-- DAX e criação de KPIs
-- ETL / ELT
-- Análise exploratória com Python
-- Databricks e processamento de dados
+- SQL
+- Power BI
+- DAX
+- Databricks
+- ETL
+- Python
+- PySpark
+- Tableau
+- Excel Avançado
+- Análise Exploratória
 - Data Visualization
+- KPIs e indicadores
+- Modelagem e tratamento de dados
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Software & Web
+### 💻 Software & Full Stack
 
-- Aplicações com **Next.js / React**
-- APIs e back-end com **Node.js**
-- Desenvolvimento com **TypeScript**
-- PostgreSQL / Supabase
-- Integrações com APIs externas
-- Autenticação e Row Level Security
-- Deploy com Vercel / Netlify
-- Arquitetura e desenvolvimento de SaaS
+- React.js
+- Node.js
+- Express
+- TypeScript
+- JavaScript
+- PostgreSQL
+- Supabase
+- APIs REST
+- Webhooks
+- Arquitetura SaaS
+- Integração de APIs
+- Autenticação
+- Deploy
 
 </td>
+
 </tr>
 </table>
+
+---
+
+## 💼 Experiência
+
+### 🏦 Bradesco Prime — Business Intelligence I
+
+**Abril 2026 – Agosto 2026 | Osasco, SP**
+
+Atuação em **Business Intelligence**, com foco em análise de dados, construção de soluções analíticas e suporte à tomada de decisão em nível executivo.
+
+**Principais atividades:**
+
+- 🔎 Extração, tratamento e análise de dados utilizando **SQL em ambiente Databricks**
+- 🧠 Desenvolvimento de consultas SQL complexas para geração de insights
+- 📊 Criação e manutenção de **dashboards executivos em Power BI**
+- 🗄️ Consultas e validações de integridade utilizando **SQL Server e SAS**
+- 📈 Análise de indicadores de performance e identificação de tendências
+- 🎯 Apoio a projetos estratégicos de **Business Intelligence**
+- 🔐 Participação em iniciativas relacionadas à **governança de dados**
+
+---
+
+### 🏦 Bradesco — Estagiário em Análise de Dados
+
+**Outubro 2024 – Março 2026 | Osasco, SP**
+
+Atuação com análise de dados e Business Intelligence para áreas internas do banco.
+
+**Principais atividades:**
+
+- 📊 Construção de dashboards e indicadores utilizando **Power BI e DAX**
+- 🔎 Extração e consulta de dados utilizando **SQL em ambiente SAS**
+- 🔗 Cruzamento e consolidação de bases utilizando **Excel Avançado**
+- 📈 Elaboração de relatórios estratégicos
+- 💡 Suporte a análises estruturadas para áreas de negócio
+
+---
+
+### 💳 Cielo — Aprendiz em Análise de Dados
+
+**Julho 2024 – Outubro 2024 | Barueri, SP**
+
+- 📊 Criação de dashboards para monitoramento de indicadores operacionais
+- 🐍 Análises exploratórias utilizando **Python**
+- ⚙️ Automação de processos manuais e tarefas repetitivas
+- 📈 Suporte a análises estruturadas para times de negócio
 
 ---
 
@@ -74,73 +135,135 @@ Também atuo no desenvolvimento web e na construção de aplicações modernas, 
 
 <div align="center">
 
-### Linguagens
+### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sql" alt="Languages">
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
 
-### Desenvolvimento
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,postgres,git,github" alt="Development">
-
-### Dados & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,docker,azure" alt="Tools">
-
-<br><br>
-
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI">
-
 <img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX">
-
 <img src="https://img.shields.io/badge/Databricks-EF3A24?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
-
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 
-<img src="https://img.shields.io/badge/Oracle%20Data%20Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Data Modeler">
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,html,css,postgres,supabase,git,github" alt="Development">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,oracle" alt="Databases">
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 
 </div>
 
 ---
 
-## 💼 Experiência
+## 🔥 Projetos em destaque
 
-### 🏦 Bradesco — Data & Business Intelligence
+### 💰 Fyncop — SaaS de Gestão Financeira com Inteligência Artificial
 
-Atuação em **Análise de Dados e Business Intelligence**, apoiando áreas de negócio através de dados, indicadores e visualizações.
-
-**Principais atividades:**
-
-- Desenvolvimento e manutenção de **dashboards em Power BI**
-- Análise de dados para suporte à tomada de decisão
-- Construção e acompanhamento de **KPIs**
-- Consultas e manipulação de dados com **SQL**
-- Tratamento e transformação de dados
-- Apoio à análise de eficiência e performance operacional
-- Criação de soluções para transformar dados em informações acionáveis
-
----
-
-## 🔥 Projeto em destaque
-
-### 💰 Fyncop — Financial Management SaaS
-
-Uma plataforma SaaS de gestão financeira desenvolvida para centralizar informações financeiras e transformar dados em decisões.
+Plataforma financeira completa desenvolvida para gerenciamento financeiro, geração de insights e projeções.
 
 **Stack:**
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `React` `Stripe` `Mercado Pago` `GROQ`
+`React` `Node.js` `Supabase` `PostgreSQL` `JavaScript` `IA`
 
 **Destaques:**
 
-- 📊 Dashboard financeiro com KPIs
-- 🏢 Arquitetura multi-tenant
-- 🔐 Row Level Security (RLS)
-- 💳 Sistema de assinatura e pagamentos
-- 🎙️ Comandos de voz utilizando Web Speech API
-- 🤖 Processamento de linguagem com LLM
-- 🔌 Integrações com APIs externas
-- 📅 Agenda financeira
-- 🚀 Arquitetura preparada para escala
+- 📊 Gestão e análise financeira
+- 🤖 Geração automática de insights utilizando IA
+- 📈 Projeções financeiras
+- 🔐 Sistema de autenticação
+- 🗄️ Arquitetura e banco de dados
+- 🔌 Desenvolvimento de APIs
+- 💳 Integração com gateways de pagamento
+- 🚀 Aplicação **em produção**
+
+🌐 **[fyncop.com](https://fyncop.com)**
+
+---
+
+### 📊 Dashboard de Vendas
+
+Dashboard analítico desenvolvido para acompanhamento de indicadores de vendas e performance.
+
+**Stack:**
+
+`Power BI` `SQL` `DAX`
+
+**Destaques:**
+
+- 📈 Indicadores de performance
+- 🔎 Filtros dinâmicos
+- 🧮 Medidas DAX customizadas
+- 📊 Visualizações analíticas
+
+🔗 **[Visualizar Dashboard](https://app.powerbi.com/links/hH3JvaCD_E)**
+
+---
+
+### 🧮 Calculadora Financeira
+
+Aplicação web para realização de simulações e cálculos financeiros.
+
+**Stack:**
+
+`JavaScript` `HTML` `CSS`
+
+🌐 **[Acessar projeto](https://calculadora-financeiraa.netlify.app)**
+
+---
+
+### 🌐 Portfólio Pessoal
+
+Site desenvolvido para apresentação dos meus projetos, experiências e trajetória profissional.
+
+**Stack:**
+
+`TypeScript` `JavaScript` `HTML` `CSS`
+
+🌐 **[pedro-moura.vercel.app](https://pedro-moura.vercel.app)**
+
+---
+
+## 🎓 Formação
+
+### Faculdade de Informática e Administração Paulista — FIAP
+
+🎓 **Engenharia de Software**
+
+**2023 – Presente**
+
+📈 Média Global: **9.23**
+
+### Yázigi
+
+🇺🇸 **Inglês — Nível B2**
+
+**2021 – 2024**
+
+---
+
+## 📜 Certificações
+
+- 🎓 Programa de Capacitação em Data Analytics — Bradesco
+- 📊 Data Visualization — FIAP ON
+- 📈 Tableau — Alura
+- 📊 Power BI — Alura
+- 🗄️ Banco de Dados Oracle — FIAP ON
+- 🤖 Inteligência Artificial — FIAP ON
+- 🐍 Python — FIAP ON
+- 💻 JavaScript Completo — Curso em Vídeo
+- 🌐 Front-end — FIAP ON
+- 🧠 Lógica de Programação — Alura
+- ⚙️ Algoritmos — FIAP ON
 
 ---
 
@@ -173,8 +296,9 @@ Uma plataforma SaaS de gestão financeira desenvolvida para centralizar informa�
 ## 🎯 Atualmente
 
 ```text
-🎓 Engenharia de Software — FIAP
 📊 Data Analytics & Business Intelligence
-💻 Full Stack Development
-🚀 Construção de produtos e SaaS
-🧠 Data + Technology + Product
+💻 Software Engineering
+🚀 Full Stack Development
+🤖 Inteligência Artificial
+🏗️ Arquitetura de SaaS
+📈 Data + Technology + Business
