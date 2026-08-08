@@ -148,13 +148,23 @@ Uma plataforma SaaS de gest√£o financeira desenvolvida para centralizar informa√
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromourabarros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromourabarros&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourabarros&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
+<br><br>
 
-<br>
+<a href="https://github.com/pedromourabarros">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedromourabarros&theme=tokyonight" width="95%" alt="GitHub Profile Details">
+</a>
 
-<img src="https://streak-stats.demolab.com?user=pedromourabarros&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
+<br><br>
+
+<a href="https://github.com/pedromourabarros">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedromourabarros&theme=tokyonight" height="180" alt="Repositories per Language">
+</a>
+
+<a href="https://github.com/pedromourabarros">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedromourabarros&theme=tokyonight" height="180" alt="Most Commit Language">
+</a>
 
 </div>
 
