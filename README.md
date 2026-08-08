@@ -26,7 +26,7 @@
 
 🎓 Estudante de **Engenharia de Software na FIAP**, com experiência profissional em **Data Analytics e Business Intelligence**, atuando em ambientes corporativos e projetos de tecnologia.
 
-Minha experiência profissional inclui atuação no **Bradesco Prime**, trabalhando com **SQL, Databricks, Power BI, DAX, SAS e SQL Server** para extração, tratamento e análise de dados, criação de dashboards executivos e geração de insights para apoiar decisões de negócio. :contentReference[oaicite:3]{index=3}
+Minha experiência profissional inclui atuação no **Bradesco Prime**, trabalhando com **SQL, Databricks, Power BI, DAX, SAS e SQL Server** para extração, tratamento e análise de dados, criação de dashboards executivos e geração de insights para apoiar decisões de negócio.
 
 Também possuo experiência em **desenvolvimento Full Stack**, construindo aplicações web, APIs e soluções SaaS utilizando tecnologias como **React, Node.js, TypeScript, PostgreSQL e Supabase**.
 
@@ -302,3 +302,38 @@ Site desenvolvido para apresentação dos meus projetos, experiências e trajet�
 🤖 Inteligência Artificial
 🏗️ Arquitetura de SaaS
 📈 Data + Technology + Business
+```
+
+Busco constantemente evoluir tecnicamente e transformar problemas reais em soluções através de **dados, software e tecnologia**.
+
+Meu objetivo é construir produtos e soluções que sejam **eficientes, escaláveis e capazes de gerar impacto real para o negócio**.
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedromourabarros">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://pedro-moura.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://github.com/pedromourabarros">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Se algum projeto meu te ajudar, considere deixar uma estrela!
+
+**"Transformando dados em decisões. Transformando código em soluções."**
+
+</div>
